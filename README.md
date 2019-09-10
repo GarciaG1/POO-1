@@ -12,7 +12,11 @@
 
 
 [link a practica 1](practica-1/)
+
 [link a practica 2](Tarea1/)   
+
+[link a practica del pizarron](Practica-Pizarron/)
+
 
 
 
