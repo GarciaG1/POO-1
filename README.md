@@ -2,7 +2,7 @@
 
 # INSTITUO TECNOLOGICO DE TIJUANA
  
-[Logo:](./imagenes/logo.png)
+[Logo:](./Imagenes/logo.png)
 
  ## Portugal Quintero Adolfo
  ## Materia: Programacion Orientada a objetos
@@ -21,6 +21,7 @@
 
 [link a practica del pizarron](Practica-Pizarron/)
 
+[Link a Ejercicio MarkDown](Setup/) 
 
 
 
