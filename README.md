@@ -1,19 +1,19 @@
-# POO
- Curso de POO del Tec
 
-# H1
 
- INSTITUTO TECNOLOFICO DE TIJUANA
+# INSTITUO TECNOLOGICO DE TIJUANA
+ 
 
- ![logo tec](logo tec.png) 
+ ## Portugal Quintero Adolfo
+ ## Materia: Programacion Orientada a objetos
+ ## C17212536
+ ## Programacion Orientada a Objetos.
 
- ## H2
+ ### Docente: Valdez Garcia Mario
 
- Portugal Quintero Adolfo
- C17212536
- Programacion Orientada a Objetos.
 
-Docente: Valdez Garcia Mario
+[link a practica 1](practica-1/)
+[link a practica 2](Tarea1/)   
+
 
 
 
