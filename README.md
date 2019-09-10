@@ -1,14 +1,19 @@
 # POO
  Curso de POO del Tec
 
- # Titulo
+# H1
 
-Hola que tal
+ INSTITUTO TECNOLOFICO DE TIJUANA
 
- ## Titulo
+ ![logo tec](logo tec.png) 
 
-Que bien
+ ## H2
 
- ### Titulo
+ Portugal Quintero Adolfo
+ C17212536
+ Programacion Orientada a Objetos.
 
-ke ase
+Docente: Valdez Garcia Mario
+
+
+
