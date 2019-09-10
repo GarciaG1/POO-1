@@ -12,4 +12,4 @@ Paso 4:Esperamos a que la descarga se complete.
 
 Paso 5: Una vez que la descarga se completo, corremos el instalador y completamos los pasos para instalar .NET en nuestra computadora.
 
-[Instalador:](./Imagenes/paso5.png)
+![Instalador:](./Imagenes/paso5.png)
