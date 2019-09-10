@@ -2,7 +2,7 @@
 
 # INSTITUO TECNOLOGICO DE TIJUANA
  
-[Logo:](./imgenes/logo tec)
+[Logo:](./imagenes/logo tec)
 
  ## Portugal Quintero Adolfo
  ## Materia: Programacion Orientada a objetos
