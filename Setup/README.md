@@ -36,7 +36,7 @@ Para empezar a preparar nuestro entorno, vamos a utilizar la extensión para el 
 
 Para la instalacion solo basta con que pulsemos en instalar:
 
-![Extension:](./Imagenes/paso2vs.png)
+![Extension:](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/reload.png)
 
 Paso 3:Nos va a pedir como requisito tener instalado Visual Studio Code, y como nosotros ya lo tenemos, en la ventana emergente pulsamos sobre el botón Abrir Visual Studio Code:
 
