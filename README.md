@@ -2,7 +2,7 @@
 
 # INSTITUO TECNOLOGICO DE TIJUANA
  
-[Logo:](./Imagenes/logo.png)
+![Logo:](http://tectijuana.edu.mx/wp-content/plugins/website-logo/images/logo_ITT1.png)
 
  ## Portugal Quintero Adolfo
  ## Materia: Programacion Orientada a objetos
