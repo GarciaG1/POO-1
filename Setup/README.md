@@ -55,3 +55,37 @@ Paso 5:Una vez que termine tenemos que recargar el IDE. Para eso basta con pulsa
 Paso 6: Con esto, ya tenemos nuestro entorno de trabajo Visual Studio Code para trabajar con el lenguaje C# y con .NET Core.
 
 (Podríamos haberlo buscado directamente desde el entorno e instalarlo desde allí más fácilmente, ahorrándonos un par de pasos.xd)
+
+# Pasos para instalacion de GIT. conectado a tu cuenta GitHub y VSC.
+
+Paso 1: Entramos a la Pagina oficial de de descargas [git.](https://git-scm.com/downloads) y escogemos la opcion para descargar en el sistema operativo de nuestra conveniencia(en mi caso Windows).
+
+![Descarga:](https://miro.medium.com/max/1280/1*PPHX_iRgCFknW6AOMPGsOw.png)
+
+Paso 2: Una vez descargada, dale click al archivo con el formato Git-version.exe. Al inicio preguntará por permisos para ejecutar el instalador, a lo cual debemos responder que sí.
+
+Paso 3: Como muchos de los instaladores en Windows, debemos de aceptar las opciones por defecto y darle Next (siguiente) a todo hasta que nos salga el botón de instalar, pero en algunos pasos si tendremos que cambiar algunas configuraciones para poder acomodarlo a nuestro beneficio.
+
+![Instalador:](https://miro.medium.com/max/493/1*k4o9_OMmScXTL9h15Rb5SQ.png)
+
+![Instalador:](https://miro.medium.com/max/495/1*COpNZF0GQsMNZwPpScuMYA.png)
+
+![Instalador:](https://miro.medium.com/max/494/1*ccXGscRzG49rBA8NwI6DnQ.png)
+
+![Instalador:](https://miro.medium.com/max/495/1*dY-zXW1E8HEYQp5ADIp-IQ.png)
+
+![Instalador:](https://miro.medium.com/max/496/1*z1DLlbMXdlPk-v2yks11fw.png)
+
+![Instalador:](https://miro.medium.com/max/496/1*WqRJS0vaIQsZG3Z_MyimGg.png)
+
+![Instalador:](https://miro.medium.com/max/497/1*IbRFm3WxmKDvD01JB_e_Gw.png)
+
+![Instalador:](https://miro.medium.com/max/496/1*ZaCJlg0Qjvq2L5bq-lDAKA.png)
+
+Una vez terminada la configuración del instalador de Git, comenzará a instalar todos los archivos necesarios en la carpeta indicada al inicio.
+
+![Instalador:](https://miro.medium.com/max/495/1*XYMyRItzk_HQVSoeFXmLkw.png)
+
+Al finalizar la instalación, nos dará la opción de abrir Git Bash para finalizar.
+
+![Instalador:](https://miro.medium.com/max/496/1*f5qSOOVEtmpqpxvi1Vw1WA.png)
