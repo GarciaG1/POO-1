@@ -1,32 +1,77 @@
 ﻿using System;
+using.System.generics;  
 
 namespace Programa_Peliculas
 {
     class Pelicula
+    {   
+    private string titulo;
+
+    private Int16 año;
+    
+    
+    private string pais;
+
+    private string director;
+
+    
+    public void setAño(Int16 año)
+    
     {
-    public string titulo;
-
-    public Int16 año;
-
-    public string pais;
-
-    public string director;
+        this.Año=año;
+    } 
+    public Int16 getAño()
+    {
+        return this.Año;
     }
+
+    public void setTitulo(string titulo)
+    {
+        this.titulo=titulo;
+    }
+    
+    public String GetTitulo()
+    {
+        return this.Titulo;
+    }
+
+    public void SetDirector(string director)
+    {
+        this.Director = director;
+    }
+
+    public String GetDirector()
+    {
+        return this.Director;
+    }
+
+
+    public Pelicula()
+
+    public Pelicula(string titulo, Int16 año, string director, string pais)
+        {
+            this.Titulo = titulo;
+            this.Año = año;
+            
+        }
 
     class Program
     {
         static void Main(string[] args)
         {
-            Pelicula pelicula1= new Pelicula();
-            Pelicula pelicula2= new Pelicula();
+            Pelicula pelicula1 = new Pelicula();
+            pelicula1.SetTitulo("Bohemian Rapsody");
+            pelicula1.SetAño(2018); 
+            Console.WriteLine("{0}({1})", pelicula1.GetTitulo(), pelicula1.GetAño());
 
-            pelicula1.titulo="Bohemian Rapsody";
-            pelicula1.año=2018;
-            pelicula2.titulo="Una Mente Brillante";
-            pelicula2.año=2001;
+            Pelicula pelicula2 = new Pelicula();
+            pelicula2.SetTitulo("Quiero ser millonario");
+            pelicula2.SetAño(2001); 
+            Console.WriteLine("{0}({1})", pelicula2.GetTitulo(), pelicula2.GetAño());
 
-            Console.WriteLine("{0},{1}",pelicula1.titulo,pelicula1.año);
-            Console.WriteLine("{0},{1}",pelicula2.titulo,pelicula2.año);
+            console readline();
+
+        
         }
     }
 }
