@@ -25,6 +25,9 @@
 
 [Link a Ejercicio Basico de Peliculas](Programa_Peliculas/)
 
+[Link a Ejercicio Lista de Peliculas](Lista_Peliculas/)
+
+
 
 
 
