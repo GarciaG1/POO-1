@@ -27,6 +27,7 @@
 
 [Link a Ejercicio Lista de Peliculas](Lista_Peliculas/)
 
+[Link a Ejercicio Actores](Actores/)
 
 
 
