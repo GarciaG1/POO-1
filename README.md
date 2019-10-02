@@ -29,6 +29,8 @@
 
 [Link a Ejercicio Actores](Actores/)
 
+[Link a Ejercicio para asistencia](Trabajo_asistencia/)
+
 
 
 
