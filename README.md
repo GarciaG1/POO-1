@@ -1,6 +1,6 @@
 
 
-# INSTITUO TECNOLÓGICO DE TIJUANA
+# INSTITUTO TECNOLÓGICO DE TIJUANA
  
 ![Logo:](http://tectijuana.edu.mx/wp-content/plugins/website-logo/images/logo_ITT1.png)
 
